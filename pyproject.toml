@@ -1,0 +1,18 @@
+[project]
+name = "stocksage"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=0.116.0",
+    "edgartools>=5.40.1",
+    "finnhub-python>=2.4.29",
+    "httpx>=0.28.1",
+    "openai>=2.44.0",
+    "python-dotenv>=1.2.2",
+    "reportlab>=5.0.0",
+    "requests>=2.34.2",
+    "streamlit>=1.58.0",
+    "yfinance>=1.5.1",
+]
