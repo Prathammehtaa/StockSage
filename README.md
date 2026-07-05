@@ -90,7 +90,7 @@ The app offers two paths. **"View a Sample Report"** replays a real, previously-
 
 ## Demo video
 
-[Demo video link, TBD]
+https://youtu.be/Xn1s52_8kxw
 
 ## AI-assisted development disclosure
 
